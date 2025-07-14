@@ -48,4 +48,3 @@ A mock CSV dataset is provided in `data_sample/` to demonstrate data structure.
 ## 📜 License
 
 This repository is under the MIT License.  
-Data shown here is anonymized or simulated for portfolio purposes.
